@@ -38,18 +38,6 @@ The project focuses on:
 - **CSS3** – Styling and responsive layout  
 - **JavaScript** – Interactivity and dynamic behavior  
 - **Git & GitHub** – Version control and project hosting  
-
----
-## 📂 Project Structure
-Hospital-Website-Live/
-
--├── index.html
--├── css/
--│── style.css
--├── js/
--│── script.js
--├── images/
-
 ## 🚀 How to Run the Project Locally
 
 1. Clone the repository:
