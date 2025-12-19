@@ -42,20 +42,17 @@ The project focuses on:
 ---
 ## 📂 Project Structure
 Hospital-Website-Live/
-│
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ └── (hospital images & assets)
-└── README.md
+
+-├── index.html
+-├── css/
+-│── style.css
+-├── js/
+-│── script.js
+-├── images/
 
 ## 🚀 How to Run the Project Locally
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Vaishu9921/Hospital-Website-Live.git
-## 📂 Project Structure
 
